@@ -1,0 +1,243 @@
+
+#title{
+  background-color: #120136  ;
+
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+    }
+.container{
+  padding: 3% 15%;
+  text-align: center;
+
+}
+.bv{
+  padding: 15% 5%;
+  text-align: center;
+    background-color: #f6f578;
+
+}
+#offer{
+  padding: 7% 15%;
+}
+.navbar{
+  font-weight: bold;
+  padding: 0 0 0 150px;
+  height: 100px;
+
+
+}
+#features{
+  background-color: #120136;
+  padding: 50px 25px;
+
+
+}
+.nav-item{
+  padding: 5px 12px ;
+}
+
+.card-text{
+font-size: 1.5rem;
+  font-family: 'Montserrat',sans-serif;
+  text-align: center;
+  font-weight: bolder;
+
+}
+.hi{
+  padding: 150px auto;
+}
+.card-text:hover{
+  color: red;
+}
+.hey{
+  background-color: #ff4c68;
+}
+.card:{
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+.card:hover {
+  top: -50px;
+  bottom: -50px;
+
+}
+#reviews{
+  background-color: #120136;
+text-align: center;
+
+
+}
+.bottom-container{
+  background-color: #100303;
+  height: 180px;
+  width:100%;
+  padding-top: 25px;
+
+text-align: center;
+}
+.footer-link{
+  font-size: 20px;
+  color: gold;
+  padding: 15px 30px;
+
+}
+.cr{
+  font-size: 0.75rem;
+  color: grey;
+  padding-top: 10px;
+}
+.boss{
+  width: 55%;
+padding-top: 5px;
+padding-top: 0;
+padding-bottom: 25px;
+
+
+
+}
+.kk{
+  margin-bottom: 50px;
+}
+.ne{
+  background-color: #f0f0f0;
+  text-align: center;
+  margin: auto 5%;
+
+}
+.nes{
+  margin: 15% 15%;
+}
+.nest{
+ margin: 15% 15% auto;
+}
+.fi{
+  text-align: center;
+  padding: auto;
+}
+.fis{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 4.5rem;
+  padding: 15px;
+}
+#about{
+  background-color: #120136;
+  padding: 100px 25px 50px;
+}
+.ff{
+
+  font-size: 1.2rem;
+  font-family: 'Montserrat',sans-serif;
+color: black;
+
+padding-bottom: 50px;
+line-height: 1.4;
+padding-top: 15px ;
+
+
+width: 100%;
+text-align: center;
+
+}
+.k{
+  color: white;
+  font-family: "Montserrat",sans-serif;
+  padding-top: 35px;
+}
+
+
+
+.carousel-item{
+  margin: 0 15% 0;
+  padding: 0 15%;
+  text-align: center;
+}
+.name{
+
+  width: 100%;
+  color: #323edd;
+
+}
+.nexty{
+  background-color: #ffbd69;
+  text-align: center;
+}
+.loo{
+  height: 150px;
+  width: 150px;
+
+  color: #ff5200;
+  text-align: center;
+}
+.ok{
+  text-align: center;
+}
+.h{font-size: 1.5rem;
+  font-family: 'Montserrat',sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+  line-height: 1.5;
+}
+.k{
+  text-align: center;
+  color: white;
+padding: 0 20%;
+}
+.three{
+  padding: 75px 100px 75px;
+}
+.carousel-inner{
+  text-align: center;
+}
+
+.oh{
+  text-align: center;
+  font-family: "Montserrat";
+}
+.intro{
+  color: white;
+  text-align: center;
+  font-family: "Montserrat",sans-serif;
+}
+
+.ba{
+  color: #ff5200;
+  font-size: 3.5rem;
+}
+.ok{
+  text-align: center;
+  margin: auto ;
+}
+.box{
+  text-align: center;
+  padding: 7% 15%;
+  }
+.rev{
+  color: #f6eec7;
+text-align: center;
+padding-top: 50px;
+}
+.rev1{
+  font-family: 'Pacifico', cursive;
+  font-size: 7rem;
+  text-align: center;
+  padding: 15px auto;
+}
+#reviews{
+  text-align: center;
+}
+.review{
+  width: 75%;
+  background-color: white;
+  text-align: center;
+}
+.heading{
+  padding-bottom: 155px;
+}
+#collection{
+  background-color: #120136;
+}
